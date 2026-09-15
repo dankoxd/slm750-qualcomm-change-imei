@@ -6,11 +6,11 @@ Windows 11 25H2
 
 Used software
 ----------------------------------------
-[Putty SSH](https://putty.org/index.html)
-[WinSCP](https://winscp.net/eng/download.php)
-[USR-VCOM](https://www.waveshare.com/wiki/File:USR-VCOM_V3.7.1.520.7z)
-[socat](https://github.com/darkerego/mips-binaries/raw/master/socat)
-[QPST](https://qpsttool.com/qpst-tool-v2-7-496/)
+- [Putty SSH](https://putty.org/index.html)
+- [WinSCP](https://winscp.net/eng/download.php)
+- [USR-VCOM](https://www.waveshare.com/wiki/File:USR-VCOM_V3.7.1.520.7z)
+- [socat](https://github.com/darkerego/mips-binaries/raw/master/socat)
+- [QPST](https://qpsttool.com/qpst-tool-v2-7-496/)
 
 Guide
 ---------------------------------------
