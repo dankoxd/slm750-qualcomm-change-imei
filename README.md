@@ -1,6 +1,6 @@
 Tested on
 ------------------------------------------
-Teltonika Rut240 /SLM750 module/ firmware version: RUT2XX_R_00.01.14.7
+Teltonika Rut240 /MeigLink SLM750 module/ firmware version: RUT2XX_R_00.01.14.7
 Windows 11 25H2
 
 
