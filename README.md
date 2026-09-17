@@ -1,4 +1,4 @@
-**DISCLAIMER:** 
+**DISCLAIMER** 
 ------------------------------------------
 **This guide server for recovery and educational purposes of corrupted IMEI. Changing IMEI number is potentially illegal depending on your region. I do not condone any illegal activities that can be tied to this guide. I do not take personal responsibility for your actions. Use at your own risk.**
 
